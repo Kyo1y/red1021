@@ -13,3 +13,9 @@ body {
 .nav {
     text-decoration: none;
 }
+
+.header {
+    background: wheat;
+    display: flex;
+    align-items: center;
+}
